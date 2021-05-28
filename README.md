@@ -7,7 +7,6 @@ Desenvolvedor front-end, mobile e UI designer, apaixonado por tudo que envolve o
 Dentre as tecnologias que gosto de trabalhar estão o Javascript, Typescript, Flutter e Angular.
 
 ## Me encontre na web 💬
-[Linkedin](https://www.linkedin.com/in/samuel-junior-germano-27301115a/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-junior-germano-27301115a/)
 
-[Instagram](https://www.instagram.com/samm_germano/)
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samm_germano/)
